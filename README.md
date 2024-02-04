@@ -33,16 +33,16 @@ This script is a simple yet effective tool for performing various computer maint
 2. Choose the category of commands you want to execute from the menu.
 3. Follow the on-screen instructions for each command.
 
-## Note
+## :computer: Note
 
 - Some commands may require administrative privileges. Ensure that you run the script with the necessary permissions.
 - Use caution when performing disk formatting, as it will erase all data on the selected disk.
 
-## Contribution
+## :gear: Contribution
 
 Feel free to contribute to this script by adding new features, improving existing ones, or fixing any issues. Create a pull request with your changes.
 
-## Disclaimer
+## :warning: Disclaimer
 
 This script is provided as-is without any warranties. Use it at your own risk, and make sure to understand the implications of each command before executing it.
 
